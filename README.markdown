@@ -53,7 +53,3 @@ pip install opencv-python mediapipe deepface numpy scipy
 ## 🤝 Contributing
 
 We’d love your input! Fork this repository, enhance it, and submit pull requests to join the journey.
-
-## 📜 License
-
-This project is open-source. Check the [LICENSE](LICENSE) file for details (if applicable).
