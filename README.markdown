@@ -52,4 +52,4 @@ pip install opencv-python mediapipe deepface numpy scipy
 
 ## 🤝 Contributing
 
-We’d love your input! Fork this repository, enhance it, and submit pull requests to join the journey.
+I’d love your input! Fork this repository, enhance it, and submit pull requests to join the journey.
